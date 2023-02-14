@@ -1,0 +1,2 @@
+#!/bin/bash
+Find . typr f name "*.js" delete
